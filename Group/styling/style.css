@@ -1,0 +1,54 @@
+body{
+    background-color: rgb(29, 190, 190);
+    
+    width: auto;
+   
+}
+body{
+    text-align: center;
+    display: flex;
+align-items: center;
+justify-content: center;
+    
+
+
+  
+}
+
+ul{
+    list-style-position: inside;
+}
+img{
+    width: 200px;
+    height: 200px;
+
+
+    /* float: left; */
+   
+}
+
+p {
+    text-align: center;
+}
+
+/* .text{
+    position: absolute;
+   color: rgb(255, 0, 51);
+
+} */
+h1{
+text-align: center;
+}
+h2{
+    text-align: center;
+  } 
+   * {
+    box-sizing: border-box;
+  }
+
+  .column{
+    /* float: left; */
+    width: 10%;
+    
+  }
+
